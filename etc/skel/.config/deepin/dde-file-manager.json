@@ -1,6 +1,99 @@
 {
-	"GenericAttribute": {
-		"AutoMount": false,
-		"AutoMountAndOpen": false,
-	}
+    "GenericAttribute": {
+        "AutoMount": false
+    },
+    "QuickAccess": {
+        "Items": [
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": -1,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Recent",
+                "url": "recent:/"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 0,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Home",
+                "url": "file:///home/liveuser"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 1,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Desktop",
+                "url": "file:///home/liveuser/Desktop"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 2,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Videos",
+                "url": "file:///home/liveuser/Videos"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 3,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Music",
+                "url": "file:///home/liveuser/Music"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 4,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Pictures",
+                "url": "file:///home/liveuser/Pictures"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 5,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Documents",
+                "url": "file:///home/liveuser/Documents"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 7,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Trash",
+                "url": "trash:/"
+            },
+            {
+                "created": "",
+                "defaultItem": true,
+                "index": 6,
+                "lastModified": "",
+                "locateUrl": "",
+                "mountPoint": "",
+                "name": "Downloads",
+                "url": "file:///home/liveuser/Downloads"
+            }
+        ]
+    }
 }
